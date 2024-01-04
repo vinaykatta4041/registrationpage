@@ -1,0 +1,26 @@
+
+        body {
+            background-color: #007bff;
+        }
+        .navbar {
+            background-color: white;
+            color: #007bff;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+.copy p{
+    background:#007bff;
+    color: white;
+    text-align: right;
+}
+.mine{
+    background: red;
+    text-align: center;
+}
+
